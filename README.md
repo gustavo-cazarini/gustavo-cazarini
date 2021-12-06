@@ -4,3 +4,4 @@
 
 Actually learning:
 - React.js
+- Python
