@@ -1,6 +1,6 @@
 ## Hello! My name is Gustavo ✋
 
-🎯 I'm in a journey to become a FullStack Developer!!!
+🎯 I am a FullStack Developer!!!
 
 ##
 
